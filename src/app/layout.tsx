@@ -13,7 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Stall Page",
+  title: "Stall",
+  icons: "opexn_icon.png",
   description: "Stall of the Exhibitors",
 };
 
